@@ -4,8 +4,8 @@ int roundCount = 0;
 int voteRound = 0;
 
 Handle hRestartGame = INVALID_HANDLE;
-char ChatPrefix1[18] = "\x01[Server]\x04";
-char ChatPrefix2[18] = "\x01[Server]\x02";
+char ChatPrefix1[18] = "\x01[Harte]\x04";
+char ChatPrefix2[18] = "\x01[Harte]\x02";
 
 
 public Plugin myinfo =
